@@ -1,6 +1,6 @@
 
 <?php
-    require 'SQL_Codes.php';
+require "SQL_Codes.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">

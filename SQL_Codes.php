@@ -1,6 +1,5 @@
 <?php
 
-// get task
 require "connection_db.php";
 
 if(isset($_POST['add_task'])){
